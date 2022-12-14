@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/0hjOGLFaQa0AAAAd/lofi-girl-lofi.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nategrabowski&label=Profile%20views&color=0e75b6&style=flat" alt="nategrabowski" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nategrabowski" alt="nategrabowski" /></a> </p>
+
 
 - 🔭 I’m currently working on **Game Jams!**
 
