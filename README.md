@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Unity, ASP.NET**
 
-- 💬 Ask me about **anything**
+- 💬 Ask me about **my projects and passions**
 
 - ⚡ Fun fact **I've traveled to almost every state in the US!**
 
