@@ -1,5 +1,5 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Hello%20there🤹&width=800&height=400)](https://github.com/Akshay090/svg-banners)
-<h1 align="center">Hi 👋, I'm Nate Grabowski</h1>
+<h1 align="center">I'm Nate Grabowski</h1>
 <h3 align="center">Software Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/0hjOGLFaQa0AAAAd/lofi-girl-lofi.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nategrabowski&label=Profile%20views&color=0e75b6&style=flat" alt="nategrabowski" /> </p>
