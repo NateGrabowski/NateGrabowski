@@ -6,7 +6,7 @@
 
 
 
-- 🔭 I’m currently working on **Game Jams!**
+- 🔭 I’m currently working on **the ZenoJam Game Jam!**
 
 - 🌱 I’m currently learning **Unity, ASP.NET**
 
