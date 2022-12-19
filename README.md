@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **the ZenoJam Game Jam!**
 
-- 🌱 I’m currently learning **Unity, ASP.NET**
+- 🌱 I’m currently learning **Unity, C#, and ASP.NET**
 
 - 💬 Ask me about **my projects and passions**
 
