@@ -6,9 +6,9 @@
 
 
 
-- 🔭 I’m currently working on **ASP.NET web app!**
+- 🔭 I’m currently working on **.NET Core with React front end web app!**
 
-- 🌱 I’m currently learning **C#, ASP.NET, and Unity**
+- 🌱 I’m currently learning **C# and ASP.NET**
 
 - 💬 Ask me about **my projects and passions**
 
