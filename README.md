@@ -5,9 +5,9 @@
 
 
 
-- 🔭 I’m currently working on **.NET Core with React front end web app!**
+- 🔭 I’m currently working on **SharePoint Framework custom applications**
 
-- 🌱 I’m currently learning **C# and ASP.NET**
+- 🌱 I’m currently learning **ASP.NET & React**
 
 - 💬 Ask me about **my projects and passions**
 
